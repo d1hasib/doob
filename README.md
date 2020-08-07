@@ -1,8 +1,8 @@
-<img src="artwork/doob-mockup.png" align="center" />
+<img src="img/doob-mockup.png" align="center" />
 
 # What is doob
 
-<img src="artwork/doob-logo.png" align="right" />
+<img src="img/doob-logo.png" align="right" />
 
 `doob` is a Linux theme in general. It embraces modern minimalistic
 and materialistic styling and follows its core guidelines
