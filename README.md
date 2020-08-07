@@ -1,3 +1,5 @@
+<img src="artwork/doob-mockup.png" align="center" />
+
 # What is doob
 
 <img src="artwork/doob-logo.png" align="right" />
