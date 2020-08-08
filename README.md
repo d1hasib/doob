@@ -57,3 +57,4 @@ the dependencies are met or not.
 | --------------------------------------------------------- | ---------------------------- |
 | [zsh](http://zsh.sourceforge.net)                         | enable vi-mode: `bindkey -v` |
 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | config will be overwritten   |
+| [nerd font](https://www.nerdfonts.com/)                   | to display p10k icons        |
